@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<item>
+  <title>Folge 1 Thema: Bits und Budget</title>
+  <link>https://kabelundkaffee.github.io/our-podcast/episode1</link>
+  <description>Podcast mit zwei IT-Administratoren, die gern über Leid, Spaß und Aufgabenbereiche sprechen. Wir sind frisch aus dem Ei geschlüpfte Podcaster und nicht kritikscheu (bitte nett bleiben). Außerdem lassen wir gern Ideen aus der Community mit einfließen</description>
+  <enclosure url="https://drive.google.com/uc?export=download&id=YOUR_FILE_ID" length="12345678" type="audio/mpeg" />
+  <guid>https://kabelundkaffee.github.io/our-podcast/episode1</guid>
+  <pubDate>Sun, 04 Aug 2023 17:00:00 GMT</pubDate>
+  <itunes:duration>00:33:12</itunes:duration>
+</item>
