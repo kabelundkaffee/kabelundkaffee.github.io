@@ -3,6 +3,11 @@
   <channel>
     <title>Kabel und Kaffee Podcast</title>
     <link>https://kabelundkaffee.github.io</link>
+    <image>
+        <url>https://kabelundkaffee.github.io/logo.png</url>
+        <title>Kabel und Kaffee Podcast</title>
+        <link>https://kabelundkaffee.github.io</link>
+    </image>
     <description>Podcast mit zwei IT-Administratoren, die gern über Leid, Spass und Aufgabenbereiche sprechen. Wir sind frisch aus dem Ei geschluepfte Podcaster und nicht kritikscheu (bitte nett bleiben). Außerdem lassen wir gern Ideen aus der Community mit einfliessen</description>
     <language>de-de</language>
     <pubDate>Sun, 04 Aug 2023 17:00:00 GMT</pubDate>
